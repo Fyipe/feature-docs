@@ -61,7 +61,7 @@ It is strongly recommended that you install Fyipe in a dedicated non-default nam
 ## Using Fyipe
 
 ============================================ 
-IMPORTANT: After Installation Steps
+#### IMPORTANT: After Installation Steps
 ============================================ 
 
 ** Thank you for installing Fyipe **
@@ -71,7 +71,7 @@ IMPORTANT: After Installation Steps
 To access your Fyipe app from steps below:
 
 ============================================ 
-Make sure external IP's are assigned. 
+#### Make sure external IP's are assigned. 
 ============================================ 
 
 Please run these commands to get Fyipe URL
@@ -85,7 +85,7 @@ If the load balancer did not assign an external IP yet (if the IP is still pendi
 Retry this command after few mins. 
 
 ============================================ 
-Sign Up
+#### Sign Up
 ============================================
 
 Go to the External IP (generated from step 1) from your browser and sign up a new admin account. 
@@ -93,7 +93,7 @@ This is your master admin account (and not a user account).
 To create a user account. Please follow steps below.
 
 ============================================ 
-Setup Email
+#### Setup Email
 ============================================
 
 When you're done signing up the admin account. Head over to "Settings" -> "Email"
@@ -101,7 +101,7 @@ When you're done signing up the admin account. Head over to "Settings" -> "Email
 Add your SMTP server details here to enable email alerts. 
 
 ============================================ 
-Setup Twilio
+#### Setup Twilio
 ============================================
 
 When you're done signing up the admin account. Head over to "Settings" -> "Call and SMS"
@@ -109,14 +109,14 @@ When you're done signing up the admin account. Head over to "Settings" -> "Call 
 Add your Twilio Settings here to enable call and SMS alert.
 
 ============================================ 
-Create User
+#### Create User
 ============================================
 
 On the Admin Dahboard, go to the "Users" menu and add a new user. 
 Log out of the admin account, and log in with a user account to access User's Fyipe Dashboard.
 
 ============================================ 
-Support and Demo
+#### Support and Demo
 ============================================
 
 Demo:
