@@ -2,44 +2,32 @@
 
 ### Wait 15 mins
 
+Please wait for 15-30 mins after you create your VM instance. This will ensure an updated version of Fyipe is deployed on your VM.
 
+### Sign up for Admin Account
 
-============================================
+Go to the VM External IP from your browser (https://<vm-external-ip>) and sign up a new admin account. 
+This is your master admin account (and not a user account). 
+To create a user account. Please follow steps below.
 
-Sign Up
-============================================
-
-Go to the External IP (generated from step 1) from your browser and sign up a new admin account. This is your master admin account (and not a user account). To create a user account. Please follow steps below.
-
-============================================
-
-Setup Email
-============================================
+### Setup Email
 
 When you're done signing up the admin account. Head over to "Settings" -> "Email"
 
 Add your SMTP server details here to enable email alerts.
 
-============================================
 
-Setup Twilio
-============================================
+### Setup Twilio
 
 When you're done signing up the admin account. Head over to "Settings" -> "Call and SMS"
 
 Add your Twilio Settings here to enable call and SMS alert.
 
-============================================
-
-Create User
-============================================
+### Create User
 
 On the Admin Dahboard, go to the "Users" menu and add a new user. Log out of the admin account, and log in with a user account to access User's Fyipe Dashboard.
 
-============================================
-
-Support and Demo
-============================================
+### Support and Demo
 
 Demo: If you're looking for a personlized Fyipe demo. Please email us at demo@fyipe.com to schedule one.
 
