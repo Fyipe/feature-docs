@@ -36,7 +36,7 @@ On the Admin Dahboard, go to the "Users" menu
 
 and add a new user. 
 
-![Add User](https://www.dropbox.com/s/45a72jop84a791i/Screenshot%202020-04-14%20at%209.12.17%20AM.png?dl=0&raw-1)
+![Add User](https://www.dropbox.com/s/45a72jop84a791i/Screenshot%202020-04-14%20at%209.12.17%20AM.png?dl=0&raw=1)
 
 Log out of the admin account, and log in with a user account to access User's Fyipe Dashboard.
 
