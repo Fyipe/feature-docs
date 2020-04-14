@@ -10,7 +10,7 @@ Go to the VM External IP from your browser (https://<vm-external-ip>) and sign u
 This is your master admin account (and not a user account). 
 To create a user account. Please follow steps below.
   
-![Sign up](https://www.dropbox.com/s/4s0mnaxpvcw3geo/Screenshot%202020-04-14%20at%209.07.25%20AM.png?dl=0) 
+![Sign up](https://www.dropbox.com/s/4s0mnaxpvcw3geo/Screenshot%202020-04-14%20at%209.07.25%20AM.png?dl=0&raw=1) 
 
 ### Setup Email
 
