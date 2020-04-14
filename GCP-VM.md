@@ -23,6 +23,8 @@ When you're done signing up the admin account. Head over to "Settings" -> "Call 
 
 Add your Twilio Settings here to enable call and SMS alert.
 
+![Twilio](https://www.dropbox.com/s/0r4rs5ankko4d6c/Screenshot%202020-04-14%20at%209.11.02%20AM.png?dl=0&raw=1)
+
 ### Create User
 
 On the Admin Dahboard, go to the "Users" menu and add a new user. Log out of the admin account, and log in with a user account to access User's Fyipe Dashboard.
