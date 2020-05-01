@@ -8,6 +8,12 @@ Open Port 22, Port 80 and Port 443 on your EC2 instance.
 
 Please wait for 15-30 mins after you create your VM instance for the service to start.
 
+Optional: If you want to check the status of the service. SSH into the VM and:
+
+```
+sudo k get pods
+```
+
 ### Log in to Admin Account
 
 Go to the VM External IP from your browser (https://<vm-external-ip>) and log in to new admin account. 
