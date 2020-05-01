@@ -1,5 +1,9 @@
 # Post Deployment Steps
 
+### Add Security Groups
+
+Open Port 22, Port 80 and Port 443 on your EC2 instance. 
+
 ### Wait 15 mins
 
 Please wait for 15-30 mins after you create your VM instance. This will ensure an updated version of Fyipe is deployed on your VM.
