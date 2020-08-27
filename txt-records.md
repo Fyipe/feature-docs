@@ -1,4 +1,4 @@
-# A Records
+# TXT Records
 
 Here's a guide to modify TXT records. Please select the DNS provider you currently host your DNS on: 
 
