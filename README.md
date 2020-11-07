@@ -1,4 +1,5 @@
-<img src='https://fyipe.com/img/FyipeFull.svg' width='250' alt='Fyipe'> 
+<img src='https://fyipe.com/img/FyipeFull.svg' width='250' alt='Fyipe' /> 
+
 # Feature Documentation
 Feaure documentation for Fyipe
 
@@ -16,8 +17,8 @@ Get to the root of any website, server or application outage to resolve the issu
 * **Deep Website Scans**
 Find performance, SEO, accessibility, issues with your Website. We also give you recommendations on best practices and more.
 
-**Fyipe can replace**
-<img src='https://fyipe.com/img/competitors/pingdom.png' width='45' alt='Pingodom' title='Pingdom'> <img src='https://fyipe.com/img/competitors/newrelic-logo.png' width='50' alt='New Relic' title='New Relic'> 
+**Fyipe can replace** <br />
+<img src='https://fyipe.com/img/competitors/pingdom.png' width='45' alt='Pingodom' title='Pingdom'> <img src='https://fyipe.com/img/competitors/newrelic-logo.png' width='50' alt='New Relic' title='New Relic' /> 
 
 
 ## 2. Incident Management
@@ -38,8 +39,8 @@ Flype supports multiple incident stages such as Investigating, Acknowledged, Res
 * **Manual Incident Management**
 Create Manual Incidents which can later be acknowledged and resolved.
 
-**Fyipe can replace**
-<img src='https://fyipe.com/img/competitors/pager-duty.png' width='45' alt='PagerDuty' title='PagerDuty'> 
+**Fyipe can replace** <br />
+<img src='https://fyipe.com/img/competitors/pager-duty.png' width='45' alt='PagerDuty' title='PagerDuty' /> 
 
 ## 3. Log Management
 * **Application Log Management**
@@ -47,8 +48,8 @@ Resolve performance issues faster with traces and logs together. View key resour
 * **Live Tail of Logs**
 Think real-time tail of logs across all your log files from all your distributed systems. Pattern-based filtering and color coding help you to focus on what matters to you.
 
-**Fyipe can replace**
-<img src='https://fyipe.com/img/logdna.png' width='45' alt='LogDNA' title='LogDNA'> 
+**Fyipe can replace** <br />
+<img src='https://fyipe.com/img/logdna.png' width='45' alt='LogDNA' title='LogDNA' /> 
 
 ## 4. Status Pages
 Status Page helps you be more transparent with your customers and showcase reliability. Easily communicate real-time status to your customers, gain trust and increase revenue.
@@ -73,8 +74,8 @@ Customize your status page and make it look like your brand.
 * **Private Status Pages**
 Create private status pages for your internal team or your few select customers and keep your company informed.
 
-**Fyipe can replace**
-<img src='https://fyipe.com/img/competitors/statuspage-logo.png' width='45' alt='StatusPage.io' title='StatusPage.io'> 
+**Fyipe can replace** <br />
+<img src='https://fyipe.com/img/competitors/statuspage-logo.png' width='45' alt='StatusPage.io' title='StatusPage.io' /> 
 
 ## 5. Security
 Check your container or application security status with Fyipe's detailed analysis report.
@@ -98,8 +99,8 @@ Find and fix security vulnerabilities in your backend, web and mobile apps.
     Receive alerts via email, SMS and on call
 
 
-**Fyipe can replace**
-<img src='https://fyipe.com/img/Snyk.png' width='45' alt='Snyk' title='Snyk'>
+**Fyipe can replace** <br />
+<img src='https://fyipe.com/img/Snyk.png' width='45' alt='Snyk' title='Snyk' />
 
 ## 6. On Call
  On-Call Management lets you alert the right team at the right time saving you critical time during downtime.
@@ -119,8 +120,8 @@ It doesn't matter where your team members reside in. Fyipe supports global teams
 * **On-call Reporting**
 * **Call, SMS Global Alerts**
 
-**Fyipe can replace**
-<img src='https://fyipe.com/img/competitors/pager-duty.png' width='45' alt='PagerDuty' title='PagerDuty'> 
+**Fyipe can replace** <br />
+<img src='https://fyipe.com/img/competitors/pager-duty.png' width='45' alt='PagerDuty' title='PagerDuty' /> 
 
 ## 7. Tests
 Handle your platform's tests with Fyipe.
@@ -128,25 +129,22 @@ Handle your platform's tests with Fyipe.
 * Website Tests
 * Custom Test Scripts
 
-**Fyipe can replace**
-<img src='https://fyipe.com/img/competitors/postman.png' width='45' alt='Postman' title='Postman'> 
+**Fyipe can replace** <br />
+<img src='https://fyipe.com/img/competitors/postman.png' width='45' alt='Postman' title='Postman' /> 
 
 ---
+
 # Integrations
-
 1500+ Enterprise Integrations and counting
-<div style='background-color: #212121; padding: 2rem 1rem'>
-<img src='https://fyipe.com/img/slack-white.svg' width='90' alt='Slack' title='Slack' style='margin: 1rem'/> 
-<img src='https://fyipe.com/img/atlassian.svg' width='50' alt='Atlassian' title='Atlassian' style='margin: 1rem'> 
-<img src='https://fyipe.com/img/servicenow.svg' width='120' alt='ServiceNow' title='ServiceNow' style='margin: 1rem'> 
-<img src='https://fyipe.com/img/okta.svg' width='70' alt='Okta' title='Okta' style='margin: 1rem'> 
-<img src='https://fyipe.com/img/aws-white.svg' width='50' alt='Amazon Web Services' title='Amazon Web Services' style='margin: 1rem'> 
-<img src='https://fyipe.com/img/appdynamics.svg' width='50' alt='APPDynamics' title='APP Dynamics' style='margin: 1rem'> 
-<img src='https://fyipe.com/img/newrelic.svg' width='70' alt='New Relic' title='New Relic' style='margin: 1rem'> 
-<img src='https://fyipe.com/img/zendesk.svg' width='70' alt='Zen Desk' title='Zen Desk' style='margin: 1rem'> 
-<img src='https://fyipe.com/img/azure.svg' width='50' alt='Windows' title='Windows' style='margin: 1rem'> 
-
-</div>
+- [Slack](https://slack.com)
+- [Atlassian](https://www.atlassian.com)
+- [Service Now](https://www.servicenow.sg)
+- [Okta](https://www.okta.com)
+- [AWS](https://aws.amazon.com)
+- [App Dynamics](https://www.appdynamics.com)
+- [New Relic](https://newrelic.com/)
+- [ZenDesk](https://www.zendesk.com/)
+- [Azure](https://azure.microsoft.com/en-us)
 
 ---
 
