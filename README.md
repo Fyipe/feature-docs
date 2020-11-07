@@ -1,6 +1,6 @@
 <img src='https://fyipe.com/img/FyipeFull.svg' width='250' alt='Fyipe' /> 
 
-# Feature Documentation
+## Feature Documentation
 Feaure documentation for Fyipe
 
 Fyipe monitors your website, dashboards, API's, and more and alerts your team when downtime happens. We also give you a Status Page which keeps your customers looped in and improves transparency.
